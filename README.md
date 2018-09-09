@@ -5,6 +5,10 @@ At starting script, all applications are hidden. When specify your desired activ
 SPECIFICALLY for use on Amy's computer, as personal applications and classes are part of scripts.
 But feel free to try it out anyway or ADAPT as your own.
 
+taskScript.rb: allows you to pick tasks to do on computer. Ex. music, study, youtube.
+startUpScript.rb: opens "Calendar" application from 8am to 10am. Otherwise runs taskScript.rb
+(ideally, tell Mac to run startUpScript.rb when log in)
+
 ## Getting Started
 
 Download .rb files.
